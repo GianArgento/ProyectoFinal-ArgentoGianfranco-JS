@@ -1,0 +1,22 @@
+{
+    "nombre" : "formas de pago",
+    "descripción" : "ver descuentos y cantidad de cuotas permitidas",
+    "detalles": [
+        {
+            "id": "Transferencia:" ,
+            "pago": "Usted tiene un 10% de descuento sobre el valor total"
+        },
+        {
+            "id": "Mastercard:" ,
+            "pago": "Usted tiene hasta 3 cuotas sin interés"
+        },
+        {
+            "id": "Visa:",
+            "pago": "Usted tiene hasta 6 cuotas sin interés"
+        },
+        {
+            "id": "American Express:",
+            "pago": "Usted tiene hasta 12 cuotas sin interés"
+        }
+    ]
+}
